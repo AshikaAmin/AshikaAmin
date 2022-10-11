@@ -1,9 +1,7 @@
- # Hi there 👋
+ # Hello! 👋
  
- I'm Ashika Amin.
- 
- I am developing my skills more in languages and Web development.
- 
+ I'm Ashika Amin.                                       
+ I am developing my skills more in languages and Web development. 
  Skills:   JS / HTML / CSS
 
 - 🔭 I’m currently working on   
