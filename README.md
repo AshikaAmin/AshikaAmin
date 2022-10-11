@@ -3,13 +3,12 @@
  # Hi there 👋
  
 I'm Ashika Amin
-#### Web Developer
 I am developing my skills more in languages and Web development.
 Skills:   JS / HTML / CSS
 
 - 🔭 I’m currently working on   
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web Development 
-![Web Developer]( https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
+ 
 
  
